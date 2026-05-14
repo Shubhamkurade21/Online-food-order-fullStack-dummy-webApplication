@@ -1,0 +1,23 @@
+<svg width="680" height="220" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>BiteBay logo</title>
+  <desc>Dark minimal food ordering website logo with a bowl icon and the name BiteBay</desc>
+
+  <rect width="680" height="220" fill="#1a1a1a" rx="16"/>
+
+  <g transform="translate(155, 110)">
+    <ellipse cx="0" cy="22" rx="36" ry="7" fill="none" stroke="#f5f0e8" stroke-width="2"/>
+    <path d="M-36,22 Q-36,-8 0,-8 Q36,-8 36,22" fill="none" stroke="#f5f0e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="-44" y1="22" x2="44" y2="22" stroke="#f5f0e8" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-10,-18 Q-14,-30 -10,-42" fill="none" stroke="#e8a045" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0,-20 Q-4,-32 0,-44" fill="none" stroke="#e8a045" stroke-width="2" stroke-linecap="round"/>
+    <path d="M10,-18 Q14,-30 10,-42" fill="none" stroke="#e8a045" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <text x="215" y="128" font-family="Arial, sans-serif" font-size="48" font-weight="500" fill="#f5f0e8" letter-spacing="-1">Bite<tspan fill="#e8a045">Bay</tspan></text>
+
+  <text x="217" y="155" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#888" letter-spacing="3">ORDER · DELIVER · ENJOY</text>
+
+  <circle cx="340" cy="170" r="2.5" fill="#e8a045"/>
+  <circle cx="356" cy="170" r="2.5" fill="#e8a045" opacity="0.5"/>
+  <circle cx="372" cy="170" r="2.5" fill="#e8a045" opacity="0.25"/>
+</svg>
